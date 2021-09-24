@@ -10,8 +10,8 @@ The program can print a user-determined quantity to standard output.
 The seed is based off of the current system time.
 
 # Build
-cd src/
-g++ ActualShit.cpp DebugMethods.cpp types.h PhotonBullShit.cpp
+`cd src/`
+`g++ ActualShit.cpp DebugMethods.cpp types.h PhotonBullShit.cpp`
 (or something like that. it's insanely basic)
 
 Enjoy the bullshit!
