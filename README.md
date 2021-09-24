@@ -1,7 +1,5 @@
 # PhotonBullShitHash v0.2
 
-INCLUDES==
-
 A non-cryptographic hash function I made for fun. It's horrible.
 It's slow as hell. It has a 128 bit hash length.
 The program can hash a string or a file and print it to standard output.
