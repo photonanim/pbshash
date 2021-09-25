@@ -17,3 +17,7 @@ The seed is based off of the current system time.
 Enjoy the bullshit!
 Photon
 September 24 2021
+
+# Releases
+
+The provided release should run on a Linux system. Other users can build it themselves (it takes <3 seconds)
